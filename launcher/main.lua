@@ -12,7 +12,7 @@ win:center()
 win:show()
 
 
-
+1
 repeat ui.update()
     
 until not win.visible
