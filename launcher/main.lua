@@ -9,7 +9,7 @@ end
 
 
 win:center()
-win:show()
+win:show()1s1
 
 
 1
