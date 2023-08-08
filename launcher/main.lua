@@ -9,10 +9,10 @@ end
 
 
 win:center()
-win:show()1s1
+win:show()
 
 
-1
+
 repeat ui.update()
     
 until not win.visible
