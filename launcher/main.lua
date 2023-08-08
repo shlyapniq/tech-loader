@@ -6,7 +6,7 @@ local string = require("string")
 
 local current_ram = 0
 local current_name = ""
-
+--
 
 local file = sys.File("settings.txt")
 file:open()
