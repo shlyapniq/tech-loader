@@ -4,7 +4,7 @@ local sys = require("sys")
 local win = ui.Window("TEST","fixed",250,100)
 
 function wait(time)
-    sys.sleep(time*1000)
+    sleep(time*1000)
 end
 
 
